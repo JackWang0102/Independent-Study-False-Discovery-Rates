@@ -1,4 +1,3 @@
-# Independent-Study-False-Discovery-Rates
 # False Discovery Rates: Algorithms and Estimations (In Progress)
 Advisor: Prof. Chun-Hao Yang. 
 
