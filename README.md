@@ -1,4 +1,4 @@
-# False Discovery Rates: Algorithms and Estimations (In Progress)
+# False Discovery Rates: Algorithms and Estimations
 Advisor: Prof. Chun-Hao Yang. 
 
 ## Abstract: 
